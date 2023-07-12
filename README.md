@@ -11,13 +11,14 @@
   <a href="https://github.com/Matheusoliveira813/github-readme-stats">
     <img
       align="center"
+      height="145"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusoliveira813&layout=compact&theme=dracula"
     />
   </a>
   <a href="https://github.com/Matheusoliveira813/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="145"
       src="https://github-readme-stats.vercel.app/api?username=matheusoliveira813&show_icons=true&theme=dracula"
     />
   </a>
